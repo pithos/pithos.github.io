@@ -8,12 +8,10 @@ than the Pandora.com web client, and integrates with desktop features such as me
 keys, notifications, and the sound menu.
 
 ## Screenshot
-<a href='/img/screenshot0.2.png'><img style='display: block;' src='img/screenshot0.2.png' alt='Screenshot' /></a>
 
-You can find the Python source [on GitHub](https://github.com/kevinmehall/pithos) under the GPLv3.
+![Pithos screenshot](img/screenshot0.2.png)
 
 ## Links
-&nbsp;
 
 - [Changelog](changelog.html)
 - [GitHub (source code)](https://github.com/pithos/pithos)
@@ -41,6 +39,7 @@ You can find the Python source [on GitHub](https://github.com/kevinmehall/pithos
 - Adding songs to stations / move song to another station
 
 ## Install
+
 ### Ubuntu (10.04, 11.04, 11.10, 12.04) PPA
     sudo add-apt-repository ppa:kevin-mehall/pithos-daily
     sudo apt-get update
@@ -65,13 +64,13 @@ Debian and derivatives:
 
 Download, build, and install Pithos: 
 
-	git clone https://github.com/kevinmehall/pithos.git
+	git clone https://github.com/pithos/pithos.git
 	cd pithos
 	sudo python setup.py install --prefix=/usr/local
 
 ### Hacking
 	
-	git clone https://github.com/kevinmehall/pithos.git
+	git clone https://github.com/pithos/pithos.git
 	cd pithos
 	./debug
   
@@ -84,6 +83,4 @@ The original Pandora myth used the word ["pithos"](http://en.wikipedia.org/wiki/
 ### What does Pithos mean for Pandora?
 
 Out of concern for the the longevity of Pandora Media Inc., I would recommend subscribing to Pandora One, or at the very least, clicking ads on [pandora.com](http://pandora.com). 
-
-
 

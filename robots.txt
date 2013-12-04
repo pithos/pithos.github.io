@@ -1,0 +1,5 @@
+# robotstxt.org
+User-agent: *
+Disallow:
+Sitemap: http://pithos.github.io/sitemap.xml
+
