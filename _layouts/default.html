@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{% if page.title %}{{ page.title }} &ndash; {% endif %}{{ site.title }}</title>
+		<link rel='stylesheet' href='css/style.css' />
+	</head>
+	<body>
+		<div id='wrap'>
+			<h1><a href='.'><img src='img/logo.png' /><span>Pithos<em>A native pandora.com client for Linux</em></span></a></h1>
+			<div id='content'>
+				{{ content }}
+			</div>
+			<div id='ft'>
+				<br />
+				<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by-sa/3.0/us/80x15.png" /</a> 
+				<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">
+				&copy; <a xmlns:cc="http://creativecommons.org/ns#" href="http://splash.kevinmehall.net" property="cc:attributionName" rel="cc:attributionURL">
+				<a href='http://kevinmehall.net' class='link'>Kevin Mehall</a></a> 
+				<br />Pithos is not affiliated with or endorsed by Pandora Media, Inc.
+			</div>
+		</div>
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-7069941-5");
+			pageTracker._trackPageview();
+			} catch(err) {}
+		</script>
+	</body>
+</html>
+
+
