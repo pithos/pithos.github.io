@@ -3,6 +3,18 @@ layout: default
 title: Changelog
 ---
 
+### 0.3.18
+2013-12-05
+
+- Fix high quality setting
+- Fix screensaver_pause plugin on DE's other than Gnome
+- Fix fake client
+- Pause playback when space is pressed
+- Implement the rest of MPRIS 2.2
+- No longer bundle pylast
+- Have gstreamer respect proxy
+- Move to setuptools
+
 ### 0.3.17
 2012-05-03
 
@@ -14,7 +26,7 @@ title: Changelog
 2012-04-19
 
 - Numerous bugfixes
-  	 * [(lp:905204)](https://bugs.launchpad.net/pithos/+bug/905204)
+   - [(lp:905204)](https://bugs.launchpad.net/pithos/+bug/905204)
    - [(lp:876984)](https://bugs.launchpad.net/pithos/+bug/876984)
    - [(lp:976327)](https://bugs.launchpad.net/pithos/+bug/976327)
    - [(lp:883610)](https://bugs.launchpad.net/pithos/+bug/883610)
@@ -63,33 +75,33 @@ Thanks to Adam Porter, Derek Ditch, Martin Langhoff, and Malcolm Lewis, who cont
 ### 0.3.10
 2011-07-09
 
- * Pandora protocol v31; No key change, minor change to createStation
+- Pandora protocol v31; No key change, minor change to createStation
 
 ### 0.3.9
 2011-04-27
 
- * New Pandora encryption keys [(lp:771804)](https://bugs.launchpad.net/pithos/+bug/771804)
- * Enable gstreamer progressive download to improve stream quality and work around [gstreamer bug 648786](https://bugzilla.gnome.org/show_bug.cgi?id=648786) on Ubuntu 11.04. [(lp:705271)](https://bugs.launchpad.net/pithos/+bug/705271) [(lp:759699)](https://bugs.launchpad.net/pithos/+bug/759699)
+- New Pandora encryption keys [(lp:771804)](https://bugs.launchpad.net/pithos/+bug/771804)
+- Enable gstreamer progressive download to improve stream quality and work around [gstreamer bug 648786](https://bugzilla.gnome.org/show_bug.cgi?id=648786) on Ubuntu 11.04. [(lp:705271)](https://bugs.launchpad.net/pithos/+bug/705271) [(lp:759699)](https://bugs.launchpad.net/pithos/+bug/759699)
 
 ### 0.3.8
 2011-04-12
 
- *  CVE-2011-1500: Fix password leak to local users through file permissions (by Luke Faraone) [(lp:733307)](https://bugs.launchpad.net/pithos/+bug/733307)
- * Correctly handle hour-long songs (by Luke Faraone) [(lp:734962)](https://bugs.launchpad.net/pithos/+bug/734962)
- * Fix "TypeError: could not convert argument to correct param type" (by Rick Spencer) [(lp:706681)](https://bugs.launchpad.net/pithos/+bug/706681)
+- CVE-2011-1500: Fix password leak to local users through file permissions (by Luke Faraone) [(lp:733307)](https://bugs.launchpad.net/pithos/+bug/733307)
+- Correctly handle hour-long songs (by Luke Faraone) [(lp:734962)](https://bugs.launchpad.net/pithos/+bug/734962)
+- Fix "TypeError: could not convert argument to correct param type" (by Rick Spencer) [(lp:706681)](https://bugs.launchpad.net/pithos/+bug/706681)
 
 
 ### 0.3.7
 2011-01-09
 
- * Allow feedback to be removed from songs (by Christopher Eby) [(lp:659581)](https://bugs.launchpad.net/pithos/+bug/659581)
- * Don't save Pandora feedback to last.fm [(lp:636600)](https://bugs.launchpad.net/pithos/+bug/636600)
- * Minor bugfixes [(lp:670131)](https://bugs.launchpad.net/pithos/+bug/670131) [(lp:658230)](https://bugs.launchpad.net/pithos/+bug/658230)
+- Allow feedback to be removed from songs (by Christopher Eby) [(lp:659581)](https://bugs.launchpad.net/pithos/+bug/659581)
+- Don't save Pandora feedback to last.fm [(lp:636600)](https://bugs.launchpad.net/pithos/+bug/636600)
+- Minor bugfixes [(lp:670131)](https://bugs.launchpad.net/pithos/+bug/670131) [(lp:658230)](https://bugs.launchpad.net/pithos/+bug/658230)
 
 ### 0.3.6
 2010-11-06
 
- * New Pandora encryption keys [(lp:671265)](https://bugs.launchpad.net/pithos/+bug/671265)
+- New Pandora encryption keys [(lp:671265)](https://bugs.launchpad.net/pithos/+bug/671265)
 
 ### 0.3.5
 2010-10-30
