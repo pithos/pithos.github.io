@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Native Pandora.com Client for Linux
+title: A Native Pandora Client for Linux
 ---
 
 Pithos is a native [Pandora Radio](http://pandora.com) client for Linux. It's much more lightweight
@@ -44,25 +44,35 @@ keys, notifications, and the sound menu.
     sudo add-apt-repository ppa:kevin-mehall/pithos-daily
     sudo apt-get update
     sudo apt-get install pithos
+
+### Fedora
+
+We're in the process of getting Pithos added to RPM Fusion. We hope to have this done with Pithos 1.0.
     
-### Other Platforms (Building from source)
+### Building from source
 
 Note: remove any copies installed by a package manager before installing from source
 
-**Dependencies:**  
+**Dependencies (Debian):**
   python2.6, python-xdg, python-gobject, python-gst0.10, python-notify, python-gtk2, python-dbus, gstreamer0.10-plugins-good, and gstreamer0.10-plugins-bad
   
-**Build dependencies:**  
+**Build dependencies (Debian):**
   python, python-central, python-distutils-extra
   
-Debian and derivatives: 
+**Installing dependencies on Debian and derivatives:**
 
     sudo apt-get install \
       python-distutils-extra python2.6 python-xdg python-dbus \
       python-gobject python-gst0.10 python-notify python-gtk2 \
       gstreamer0.10-plugins-good gstreamer0.10-plugins-bad git-core
 
-Download, build, and install Pithos: 
+**Installing dependencies on Fedora:**
+
+[Enable RPM Fusion Free](http://rpmfusion.org/Configuration)
+
+    yum install gstreamer-python gstreamer-plugins-bad git
+
+**Download, build, and install Pithos:**
 
 	git clone https://github.com/pithos/pithos.git
 	cd pithos
@@ -82,5 +92,5 @@ The original Pandora myth used the word ["pithos"](http://en.wikipedia.org/wiki/
  
 ### What does Pithos mean for Pandora?
 
-Out of concern for the the longevity of Pandora Media Inc., I would recommend subscribing to Pandora One, or at the very least, clicking ads on [pandora.com](http://pandora.com). 
+To support Pandora Media Inc., we recommend subscribing to Pandora One.
 
