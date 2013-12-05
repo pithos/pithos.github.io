@@ -63,15 +63,9 @@ We hope to have Pithos in RPMFusion for the release of 1.0 but until then you ca
 ##### Debian/Ubuntu
 
     sudo apt-get install \
-      python-distutils-extra python python-xdg python-dbus \
+      python-setuptools python python-xdg python-dbus \
       python-gobject python-gst0.10 python-notify python-gtk2 \
       gstreamer0.10-plugins-good gstreamer0.10-plugins-bad git-core
-
-##### Fedora
-
-[Enable RPM Fusion Free](http://rpmfusion.org/Configuration)
-
-    yum install gstreamer-python gstreamer-plugins-bad git
 
 #### Download and installation
 
