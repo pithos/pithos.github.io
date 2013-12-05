@@ -88,6 +88,4 @@ The original Pandora myth used the word ["pithos"](http://en.wikipedia.org/wiki/
  
 ### What does Pithos mean for Pandora?
 
-To support Pandora Media Inc., we recommend subscribing to [Pandora One](http://pandora.com/one‎
-).
-
+To support Pandora Media Inc., we recommend subscribing to [Pandora One](http://pandora.com/one).
