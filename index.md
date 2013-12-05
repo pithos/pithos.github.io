@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Native Pandora Client for Linux
+title: Pandora Radio Client
 ---
 
 Pithos is a native [Pandora Radio](http://pandora.com) client for Linux. It's much more lightweight
@@ -40,49 +40,44 @@ keys, notifications, and the sound menu.
 
 ## Install
 
-### Ubuntu (10.04, 11.04, 11.10, 12.04) PPA
+### Ubuntu
+
     sudo add-apt-repository ppa:kevin-mehall/pithos-daily
     sudo apt-get update
     sudo apt-get install pithos
 
 ### Fedora
 
-We're in the process of getting Pithos added to RPM Fusion. We hope to have this done with Pithos 1.0.
+We hope to have Pithos in RPMFusion for the release of 1.0 but until then you can use [TingPing](https://github.com/TingPing)'s repo (requires [RPMFusion](http://rpmfusion.org/Configuration)):
+
+    sudo yum-config-manager --add-repo http://dl.tingping.se/fedora/tingping.repo
+    sudo yum install pithos
     
-### Building from source
+### Installing from source
 
-Note: remove any copies installed by a package manager before installing from source
+**Note**: Remove any copies installed by a package manager before installing from source
 
-**Dependencies (Debian):**
-  python2.6, python-xdg, python-gobject, python-gst0.10, python-notify, python-gtk2, python-dbus, gstreamer0.10-plugins-good, and gstreamer0.10-plugins-bad
-  
-**Build dependencies (Debian):**
-  python, python-central, python-distutils-extra
-  
-**Installing dependencies on Debian and derivatives:**
+#### Installing dependencies
+
+##### Debian/Ubuntu
 
     sudo apt-get install \
-      python-distutils-extra python2.6 python-xdg python-dbus \
+      python-distutils-extra python python-xdg python-dbus \
       python-gobject python-gst0.10 python-notify python-gtk2 \
       gstreamer0.10-plugins-good gstreamer0.10-plugins-bad git-core
 
-**Installing dependencies on Fedora:**
+##### Fedora
 
 [Enable RPM Fusion Free](http://rpmfusion.org/Configuration)
 
     yum install gstreamer-python gstreamer-plugins-bad git
 
-**Download, build, and install Pithos:**
+#### Download and installation
 
-	git clone https://github.com/pithos/pithos.git
-	cd pithos
-	sudo python setup.py install --prefix=/usr/local
-
-### Hacking
-	
-	git clone https://github.com/pithos/pithos.git
-	cd pithos
-	./debug
+    git clone https://github.com/pithos/pithos.git
+    cd pithos
+    sudo python setup.py install
+    pithos
   
 ## FAQ
 
@@ -92,5 +87,6 @@ The original Pandora myth used the word ["pithos"](http://en.wikipedia.org/wiki/
  
 ### What does Pithos mean for Pandora?
 
-To support Pandora Media Inc., we recommend subscribing to Pandora One.
+To support Pandora Media Inc., we recommend subscribing to [Pandora One](http://pandora.com/one‎
+).
 
