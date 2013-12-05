@@ -50,7 +50,8 @@ keys, notifications, and the sound menu.
 
 We hope to have Pithos in RPMFusion for the release of 1.0 but until then you can use [TingPing](https://github.com/TingPing)'s repo (requires [RPMFusion](http://rpmfusion.org/Configuration)):
 
-    sudo yum-config-manager --add-repo http://dl.tingping.se/fedora/tingping.repo
+    sudo yum-config-manager \
+      --add-repo http://dl.tingping.se/fedora/tingping.repo
     sudo yum install pithos
     
 ### Installing from source
