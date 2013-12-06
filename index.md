@@ -13,9 +13,12 @@ keys, notifications, and the sound menu.
 
 ## Links
 
+- [Downloads](https://github.com/pithos/pithos/releases)
 - [Changelog](changelog.html)
-- [GitHub (source code)](https://github.com/pithos/pithos)
+- [Source](https://github.com/pithos/pithos)
 - [Bug reports](https://github.com/pithos/pithos/issues)
+- [Wiki](https://github.com/pithos/pithos/wiki)
+- [IRC](ircs://chat.freenode.net/pithos)
 
 ## Features
 
