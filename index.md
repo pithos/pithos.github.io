@@ -63,12 +63,11 @@ We hope to have Pithos in RPMFusion for the release of 1.0 but until then you ca
 
 #### Installing dependencies
 
-##### Debian/Ubuntu
+Package names vary by distribution but here is the list of deps required:
 
-    sudo apt-get install \
-      python-setuptools python python-xdg python-dbus \
-      python-gobject python-gst0.10 python-notify python-gtk2 \
-      gstreamer0.10-plugins-good gstreamer0.10-plugins-bad git-core
+      python-setuptools python-dbus python-gobject python-pylast \
+      gstreamer1 gstreamer1-plugins-good gstreamer1-plugins-bad \
+      gtk3 libnotify git (optionally appindicator3 keybinder3)
 
 #### Download and installation
 
