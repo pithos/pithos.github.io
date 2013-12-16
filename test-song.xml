@@ -3,6 +3,6 @@
   <itunes>http://itunes.apple.com/</itunes>
   <focusTrait>trait</focusTrait>
   <similar>
-    <song musicId="S1111112" shareUrl="http://www.pandora.com/share/song/ca7acbc1867179b1425ba2910f7abf8b" artistName="SimilarArtist" songTitle="SimilarSong" artistDetailUrl="http://www.pandora.com/" trackDetailUrl="http://www.pandora.com/" sampleUrl="http://pithos.github.io/testfile.aac" nonExplicitSampleUrl="http://pithos.github.io/testfile.aac" sampleGain="-2.02" nonExplicitSampleGain="-2.02"/>
+    <song musicId="S1111112" shareUrl="http://www.pandora.com/" artistName="SimilarArtist" songTitle="SimilarSong" artistDetailUrl="http://www.pandora.com/" trackDetailUrl="http://www.pandora.com/" sampleUrl="http://pithos.github.io/testfile.aac" nonExplicitSampleUrl="http://pithos.github.io/testfile.aac" sampleGain="-2.02" nonExplicitSampleGain="-2.02"/>
   </similar>
 </songExplorer>
