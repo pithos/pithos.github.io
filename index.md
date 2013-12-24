@@ -3,7 +3,7 @@ layout: default
 title: Pandora Radio Client
 ---
 
-Pithos is a native [Pandora Radio](http://pandora.com) client for Linux. It&rsquo;s much more lightweight
+Pithos is a native [Pandora Radio](http://pandora.com) client for Linux. It's much more lightweight
 than the Pandora.com web client, and integrates with desktop features such as media
 keys, notifications, and the sound menu.
 
@@ -51,7 +51,7 @@ keys, notifications, and the sound menu.
 
 ### Fedora
 
-We hope to have Pithos in RPMFusion for the release of 1.0 but until then you can use [TingPing](https://github.com/TingPing)&rsquo;s repo (requires [RPMFusion](http://rpmfusion.org/Configuration)):
+We hope to have Pithos in RPMFusion for the release of 1.0 but until then you can use [TingPing](https://github.com/TingPing)'s repo (requires [RPMFusion](http://rpmfusion.org/Configuration)):
 
     sudo yum-config-manager \
       --add-repo http://dl.tingping.se/fedora/tingping.repo
@@ -78,9 +78,9 @@ Package names vary by distribution but here is the list of deps required:
   
 ## FAQ
 
-### Why the name &quot;Pithos&quot;?
+### Why the name "Pithos"?
 
-The original Pandora myth used the word [&quot;pithos&quot;](http://en.wikipedia.org/wiki/Pithos), which was mistranslated to &quot;box&quot;. Similarly, a flash applet is a mistranslation to the Linux platform. 
+The original Pandora myth used the word ["pithos"](http://en.wikipedia.org/wiki/Pithos), which was mistranslated to "box";. Similarly, a flash applet is a mistranslation to the Linux platform. 
  
 ### What does Pithos mean for Pandora?
 
