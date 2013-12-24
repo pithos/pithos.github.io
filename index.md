@@ -45,7 +45,7 @@ keys, notifications, and the sound menu.
 
 ### Ubuntu
 
-    sudo add-apt-repository ppa:kevin-mehall/pithos-daily
+    sudo add-apt-repository ppa:pithos/ppa
     sudo apt-get update
     sudo apt-get install pithos
 
