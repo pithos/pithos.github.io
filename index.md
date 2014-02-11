@@ -65,7 +65,7 @@ We hope to have Pithos in RPMFusion for the release of 1.0 but until then you ca
 
 Package names vary by distribution but here is the list of deps required:
 
-      python-setuptools python-dbus python-gobject python-pylast
+      python3-setuptools python3-dbus python3-gobject python3-pylast
       gstreamer1 gstreamer1-plugins-good gstreamer1-plugins-bad
       gtk3 git (optionally libnotify appindicator3 keybinder3)
 
@@ -73,7 +73,7 @@ Package names vary by distribution but here is the list of deps required:
 
     git clone https://github.com/pithos/pithos.git
     cd pithos
-    sudo python setup.py install
+    sudo python3 setup.py install
     pithos
   
 ## FAQ
