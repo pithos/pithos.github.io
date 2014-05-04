@@ -17,7 +17,7 @@ See below for installation instructions.
 
 ## Screenshot
 
-![Pithos screenshot](img/screenshot0.2.png)
+![Pithos screenshot](img/screenshot1.0.png)
 
 ## Links
 
