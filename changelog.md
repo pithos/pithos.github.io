@@ -3,6 +3,21 @@ layout: default
 title: Changelog
 ---
 
+### 1.0.0
+2014-05-01
+- Ported to Python3 and GTK3!
+- Ported to Gstreamer 1.0!
+- New icons
+- UI updates!
+- Show play/pause and skip actions in notifications
+- Code refactorings
+- Fixed buffering bug
+- Added basic ad detection
+- Show bitrate on the songs
+- Handle PLAYLIST_EXCEEDED error
+- Improve error handling with invalid album art url
+- many more...
+
 ### 0.3.18
 2013-12-05
 

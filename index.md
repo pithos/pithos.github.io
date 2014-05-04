@@ -7,6 +7,14 @@ Pithos is a native [Pandora Radio](http://pandora.com) client for Linux. It's mu
 than the Pandora.com web client, and integrates with desktop features such as media
 keys, notifications, and the sound menu.
 
+## News
+
+**We are happy to announce the release of Pithos 1.0.0!** This is a huge
+release for the project. There are many new features, including a redesigned
+UI and icon. We hope you like it! Pithos 1.0.0 requires GTK 3.10+
+(Ubuntu 14.04). The release will be available via RPMFusion shortly.
+See below for installation instructions.
+
 ## Screenshot
 
 ![Pithos screenshot](img/screenshot0.2.png)
