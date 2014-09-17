@@ -5,6 +5,7 @@ title: Changelog
 
 ### 1.0.0
 2014-05-01
+
 - Ported to Python3 and GTK3!
 - Ported to Gstreamer 1.0!
 - New icons
