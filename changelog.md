@@ -8,6 +8,7 @@ title: Changelog
 
 - Automatically install missing codecs if supported
 - Save window position between sessions
+- Fix saving last station on quit
 - Fix pacparser support
 - Improve pandora module docs
 - Add setup.py command to build docs
