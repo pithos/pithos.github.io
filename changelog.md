@@ -3,6 +3,22 @@ layout: default
 title: Changelog
 ---
 
+### 1.0.1
+2014-09-21
+
+- Automatically install missing codecs if supported
+- Save window position between sessions
+- Fix pacparser support
+- Improve pandora module docs
+- Add setup.py command to build docs
+- Add appdata file
+- notification_icon: Make toggling visibility more reliable
+- mpris: Fix exception when querying positon
+- mpris: Implement setting volume
+- screensaver_pause: Improve Unity support
+- mediakeys: Add support for OSX
+- notify: Add support for OSX
+
 ### 1.0.0
 2014-05-01
 
