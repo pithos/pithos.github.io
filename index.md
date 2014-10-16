@@ -65,22 +65,8 @@ First add the [RPMFusion](http://rpmfusion.org/Configuration) repos. Then:
     
 ### Installing from source
 
-**Note**: Remove any copies installed by a package manager before installing from source
-
-#### Installing dependencies
-
-Package names vary by distribution but here is the list of deps required:
-
-      python3-setuptools python3-dbus python3-gobject python3-pylast
-      gstreamer1 gstreamer1-plugins-good gstreamer1-plugins-bad
-      gtk3 git (optionally libnotify appindicator3 keybinder3)
-
-#### Download and installation
-
-    git clone https://github.com/pithos/pithos.git
-    cd pithos
-    sudo python3 setup.py install
-    pithos
+Please read the [wiki](https://github.com/pithos/pithos/wiki/Installing-from-Source) for information
+on installing from source.
   
 ## FAQ
 
