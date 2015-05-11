@@ -52,13 +52,13 @@ freeze up under certain deadlock conditions.
 
 ## <a name="install">Install</a>
 
-### Ubuntu
+### Installing on Ubuntu
 
     sudo add-apt-repository ppa:pithos/ppa
     sudo apt-get update
     sudo apt-get install pithos
 
-### Fedora
+### Installing on Fedora
 
 First add the [RPMFusion](http://rpmfusion.org/Configuration) repos. Then:
 
