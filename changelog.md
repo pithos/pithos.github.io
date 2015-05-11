@@ -3,6 +3,24 @@ layout: default
 title: Changelog
 ---
 
+### 1.1.0 - GTK 3.14+ (Ubuntu 15.04, Fedora 21)
+2015-05-10
+
+- Redesign plugin preferences
+- Fix locking up when buffering a song
+- Make pylast an optional plugin
+- Make MPRIS an optional plugin
+- Update various icons
+- Minor performance improvements
+- MPRIS: Add property introspection
+- MPRIS: Add song rating pithos:rating
+- Notify: Fix escaping text when not needed
+
+### 1.0.2 - GTK 3.10 (Ubuntu 14.10 / 14.04, Fedora 20)
+2015-05-11
+
+- Fix locking up when buffering a song
+
 ### 1.0.1
 2014-09-21
 

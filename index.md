@@ -9,11 +9,15 @@ keys, notifications, and the sound menu.
 
 ## News
 
-**We are happy to announce the release of Pithos 1.0.0!** This is a huge
-release for the project. There are many new features, including a redesigned
-UI and icon. We hope you like it! Pithos 1.0.0 requires GTK 3.10+
-(Ubuntu 14.04). The release will be available via RPMFusion shortly.
-See below for installation instructions.
+**We are happy to announce the release of Pithos 1.1.0!** There are
+many new features, including a redesigned preferences dialog.
+Pithos 1.1.0 requires GTK 3.14+ (Ubuntu 15.04, Fedora 21). See below for
+installation instructions.
+
+**Pithos 1.0.2 bug fix release!** We have also released a bug fix release
+for the 1.0.x series (GTK 3.10 compatible), for those of you using Fedora 
+<= 20 and Ubuntu <= 14.10. 1.0.2 fixes a critical bug where Pithos would
+freeze up under certain deadlock conditions.
 
 ## Screenshot
 
