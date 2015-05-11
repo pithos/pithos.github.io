@@ -25,4 +25,5 @@ instructions [here](index.html#install).
 
 ### Fedora
 
+[pithos-1.0.2-1.fc20.noarch.rpm](binaries/pithos-1.0.2-1.fc20.noarch.rpm) 
 
