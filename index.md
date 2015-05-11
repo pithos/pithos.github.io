@@ -11,8 +11,8 @@ keys, notifications, and the sound menu.
 
 **We are happy to announce the release of Pithos 1.1.0!** There are
 many new features, including a redesigned preferences dialog.
-Pithos 1.1.0 requires GTK 3.14+ (Ubuntu 15.04, Fedora 21). See below for
-installation instructions.
+Pithos 1.1.0 requires GTK 3.14+ (Ubuntu 15.04, Fedora 21). See
+[below](#install) for installation instructions.
 
 **Pithos 1.0.2 bug fix release!** We have also released a bug fix release
 for the 1.0.x series (GTK 3.10 compatible), for those of you using Fedora 
@@ -25,9 +25,11 @@ freeze up under certain deadlock conditions.
 
 ## Links
 
-- [Downloads](https://github.com/pithos/pithos/releases)
+- [Installation](#install)
 - [Changelog](changelog.html)
 - [Source](https://github.com/pithos/pithos)
+- [Source Downloads](https://github.com/pithos/pithos/releases)
+- [Binary Downloads](binaries.html)
 - [Bug reports](https://github.com/pithos/pithos/issues)
 - [Wiki](https://github.com/pithos/pithos/wiki)
 - [IRC](ircs://chat.freenode.net/pithos)
@@ -47,13 +49,8 @@ freeze up under certain deadlock conditions.
 - Media Key support
 - Proxy support
 - Last.fm scrobbling
-  
-### Not yet implemented
 
-- Browsing genre stations
-- Adding songs to stations / move song to another station
-
-## Install
+## <a name="install">Install</a>
 
 ### Ubuntu
 
@@ -69,15 +66,18 @@ First add the [RPMFusion](http://rpmfusion.org/Configuration) repos. Then:
     
 ### Installing from source
 
-Please read the [wiki](https://github.com/pithos/pithos/wiki/Installing-from-Source) for information
-on installing from source.
+Please read the [wiki](https://github.com/pithos/pithos/wiki/Installing-from-Source)
+for information on installing from source.
   
 ## FAQ
 
-### Why the name "Pithos"?
+### Why the name "Pithos?"
 
-The original Pandora myth used the word ["pithos"](http://en.wikipedia.org/wiki/Pithos), which was mistranslated to "box";. Similarly, a flash applet is a mistranslation to the Linux platform. 
+The original Pandora myth used the word "[pithos](http://en.wikipedia.org/wiki/Pithos),"
+which was mistranslated to "box." Similarly, a flash applet is a
+mistranslation to the Linux platform.
  
 ### What does Pithos mean for Pandora?
 
-To support Pandora Media Inc., we recommend subscribing to [Pandora One](http://pandora.com/one).
+To support Pandora Media Inc. and enjoy higher quality audio, we recommend
+subscribing to [Pandora One](http://pandora.com/one).
