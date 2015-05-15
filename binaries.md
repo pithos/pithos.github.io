@@ -11,7 +11,7 @@ instructions [here](index.html#install).
 
 ### Ubuntu
 
-[pithos_1.1.0-1.deb](binaries/pithos_1.1.0-1.deb)
+[pithos_1.1.0-2ppa2_all.deb](binaries/pithos_1.1.0-2ppa2_all.deb)
 
 ### Fedora
 
@@ -21,7 +21,7 @@ instructions [here](index.html#install).
 
 ### Ubuntu
 
-[pithos_1.0.2-1ppa1.deb](binaries/pithos_1.0.2-1ppa1.deb) 
+[pithos_1.0.2-2ppa1_all.deb](binaries/pithos_1.0.2-2ppa1_all.deb) 
 
 ### Fedora
 
