@@ -9,6 +9,15 @@ keys, notifications, and the sound menu.
 
 ## News
 
+**Pithos 1.1.1 released!** This is a bug fix release that fixes occasional
+erratic buffering behavior.
+Pithos 1.1.1 requires GTK 3.14+ (Ubuntu 15.04, Fedora 21). See
+[below](#install) for installation instructions.
+
+**Pithos 1.0.3 released!** This is a bug fix release that fixes occasional
+erratic buffering behavior for the 1.0.x series (GTK 3.10 compatible),
+for those of you using Fedora <= 20 and Ubuntu <= 14.10.
+<hr/>
 **We are happy to announce the release of Pithos 1.1.0!** There are
 many new features, including a redesigned preferences dialog.
 Pithos 1.1.0 requires GTK 3.14+ (Ubuntu 15.04, Fedora 21). See
