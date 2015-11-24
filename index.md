@@ -9,6 +9,10 @@ keys, notifications, and the sound menu.
 
 ## News
 
+**Pithos 1.1.2 released!** This is another bug fix release that fixes
+the SSL error when using Pandora One. There are also a few plugin
+improvements including fixing the tray on KDE 5.
+
 **Pithos 1.1.1 released!** This is a bug fix release that fixes occasional
 erratic buffering behavior.
 Pithos 1.1.1 requires GTK 3.14+ (Ubuntu 15.04, Fedora 21). See
