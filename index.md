@@ -11,7 +11,8 @@ keys, notifications, and the sound menu.
 
 **Pithos 1.1.2 released!** This is another bug fix release that fixes
 the SSL error when using Pandora One. There are also a few plugin
-improvements including fixing the tray on KDE 5.
+improvements including fixing the tray on KDE 5. (Note: Python 3.4+ is
+now required)
 
 **Pithos 1.1.1 released!** This is a bug fix release that fixes occasional
 erratic buffering behavior.
