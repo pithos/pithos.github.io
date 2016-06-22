@@ -77,7 +77,11 @@ freeze up under certain deadlock conditions.
 First add the [RPMFusion](http://rpmfusion.org/Configuration) repos. Then:
 
     sudo yum install pithos
-    
+
+### Installing with Flatpak
+
+Details on using [Flatpak](http://flatpak.org/) are on the [wiki](https://github.com/pithos/pithos/wiki/Flatpak).
+
 ### Installing from source
 
 Please read the [wiki](https://github.com/pithos/pithos/wiki/Installing-from-Source)
