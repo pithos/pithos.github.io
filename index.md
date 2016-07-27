@@ -9,6 +9,10 @@ keys, notifications, and the sound menu.
 
 ## News
 
+**Pithos 1.2.0 released!** This is a major release involving a lot of
+cleanup and some UI redesigns. Please see the [changelog](https://github.com/pithos/pithos/releases/tag/1.2.0)
+for a full list.
+
 **Pithos 1.1.2 released!** This is another bug fix release that fixes
 the SSL error when using Pandora One. There are also a few plugin
 improvements including fixing the tray on KDE 5. (Note: Python 3.4+ is
