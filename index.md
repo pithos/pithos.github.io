@@ -48,7 +48,7 @@ freeze up under certain deadlock conditions.
 ## Links
 
 - [Installation](#install)
-- [Changelog](changelog.html)
+- [Changelog](https://github.com/pithos/pithos/releases)
 - [Source](https://github.com/pithos/pithos)
 - [Source Downloads](https://github.com/pithos/pithos/releases)
 - [Bug reports](https://github.com/pithos/pithos/issues)
