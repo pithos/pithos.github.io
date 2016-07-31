@@ -83,7 +83,7 @@ freeze up under certain deadlock conditions.
 
 First add the [RPMFusion](http://rpmfusion.org/Configuration) repos. Then:
 
-    sudo yum install pithos
+    sudo dnf install pithos
 
 ### Installing with Flatpak
 
