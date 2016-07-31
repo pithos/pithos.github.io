@@ -9,6 +9,10 @@ keys, notifications, and the sound menu.
 
 ## News
 
+**Pithos 1.2.1 released** Just a minor bug-fix release smoothing over
+some minor issues. See the [changelog](https://github.com/pithos/pithos/releases/tag/1.2.1)
+for details.
+
 **Pithos 1.2.0 released!** This is a major release involving a lot of
 cleanup and some UI redesigns. Please see the [changelog](https://github.com/pithos/pithos/releases/tag/1.2.0)
 for a full list.
@@ -47,7 +51,6 @@ freeze up under certain deadlock conditions.
 - [Changelog](changelog.html)
 - [Source](https://github.com/pithos/pithos)
 - [Source Downloads](https://github.com/pithos/pithos/releases)
-- [Binary Downloads](binaries.html)
 - [Bug reports](https://github.com/pithos/pithos/issues)
 - [Wiki](https://github.com/pithos/pithos/wiki)
 - [IRC](ircs://chat.freenode.net/pithos)
