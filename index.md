@@ -77,7 +77,7 @@ freeze up under certain deadlock conditions.
 
     sudo add-apt-repository ppa:pithos/ppa
     sudo apt-get update
-    sudo apt-get install pithos
+    sudo apt-get install --install-recommends pithos
 
 ### Installing on Fedora
 
