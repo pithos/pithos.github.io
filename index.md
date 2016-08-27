@@ -30,16 +30,6 @@ Pithos 1.1.1 requires GTK 3.14+ (Ubuntu 15.04, Fedora 21). See
 **Pithos 1.0.3 released!** This is a bug fix release that fixes occasional
 erratic buffering behavior for the 1.0.x series (GTK 3.10 compatible),
 for those of you using Fedora <= 20 and Ubuntu <= 14.10.
-<hr/>
-**We are happy to announce the release of Pithos 1.1.0!** There are
-many new features, including a redesigned preferences dialog.
-Pithos 1.1.0 requires GTK 3.14+ (Ubuntu 15.04, Fedora 21). See
-[below](#install) for installation instructions.
-
-**Pithos 1.0.2 bug fix release!** We have also released a bug fix release
-for the 1.0.x series (GTK 3.10 compatible), for those of you using Fedora 
-<= 20 and Ubuntu <= 14.10. 1.0.2 fixes a critical bug where Pithos would
-freeze up under certain deadlock conditions.
 
 ## Screenshot
 
