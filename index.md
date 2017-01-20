@@ -77,7 +77,9 @@ First add the [RPMFusion](http://rpmfusion.org/Configuration) repos. Then:
 
 ### Installing with Flatpak
 
-Details on using [Flatpak](http://flatpak.org/) are on the [wiki](https://github.com/pithos/pithos/wiki/Flatpak).
+    flatpak install --from https://dl.tingping.se/flatpak/pithos.flatpakref
+
+Also see the [wiki](https://github.com/pithos/pithos/wiki/Flatpak).
 
 ### Installing from source
 
