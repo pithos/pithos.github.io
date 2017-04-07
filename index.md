@@ -9,7 +9,11 @@ keys, notifications, and the sound menu.
 
 ## News
 
-**Pithos 1.2.1 released** Just a minor bug-fix release smoothing over
+**Pithos 1.3.0 released!** This is a major release involving a lot of
+bug fixes and a few new features. See the [changelog](https://github.com/pithos/pithos/releases/tag/1.3.0)
+for a full list.
+
+**Pithos 1.2.1 released!** Just a minor bug-fix release smoothing over
 some minor issues. See the [changelog](https://github.com/pithos/pithos/releases/tag/1.2.1)
 for details.
 
@@ -33,7 +37,7 @@ for those of you using Fedora <= 20 and Ubuntu <= 14.10.
 
 ## Screenshot
 
-![Pithos screenshot](img/screenshot1.0.png)
+![Pithos screenshot](img/Pithos-Screenshot.png)
 
 ## Links
 
