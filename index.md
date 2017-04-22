@@ -9,6 +9,10 @@ keys, notifications, and the sound menu.
 
 ## News
 
+**Pithos 1.3.1 released!** Mostly a minor bug-fix release smoothing over
+some minor issues, with a couple new features. See the [changelog](https://github.com/pithos/pithos/releases/tag/1.3.1)
+for details.
+
 **Pithos 1.3.0 released!** This is a major release involving a lot of
 bug fixes and a few new features. See the [changelog](https://github.com/pithos/pithos/releases/tag/1.3.0)
 for a full list.
