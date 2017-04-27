@@ -106,3 +106,12 @@ mistranslation to the Linux platform.
 
 To support Pandora Media Inc. and enjoy higher quality audio, we recommend
 subscribing to [Pandora One](http://pandora.com/one).
+
+### What is the difference between Skip, Love, Ban and Tired?
+
+- Skip: Just skips to the next song. Doesn't influence anything.
+- Love: (thumbs up rating) tells Pandora you like that song. Pandora will play this song and similar songs more often on that particular station.
+- Ban: (thumbs down rating) tells Pandora you dislike that song and not to play it ever again on that station.
+- Tired: tells Pandora to not play that song for a month on this or any other station.
+
+Love, Unrated and Ban can be thought of as +1, 0, and -1. You can Ban a song and then Unrate or Love it to change the rating. Tired is not really a rating. You can't "Un-tired" a song.
