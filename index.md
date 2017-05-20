@@ -71,6 +71,13 @@ for those of you using Fedora <= 20 and Ubuntu <= 14.10.
 
 ## <a name="install">Install</a>
 
+### Installing with Flatpak
+
+    flatpak remote-add flathub https://flathub.org/repo/flathub.flatpakrepo
+    flatpak install flathub io.github.Pithos
+
+Also see the [wiki](https://github.com/pithos/pithos/wiki/Flatpak).
+
 ### Installing on Ubuntu
 
     sudo add-apt-repository ppa:pithos/ppa
@@ -82,12 +89,6 @@ for those of you using Fedora <= 20 and Ubuntu <= 14.10.
 First add the [RPMFusion](http://rpmfusion.org/Configuration) repos. Then:
 
     sudo dnf install pithos
-
-### Installing with Flatpak
-
-    flatpak install --from https://dl.tingping.se/flatpak/pithos.flatpakref
-
-Also see the [wiki](https://github.com/pithos/pithos/wiki/Flatpak).
 
 ### Installing from source
 
