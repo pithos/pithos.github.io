@@ -9,35 +9,8 @@ keys, notifications, and the sound menu.
 
 ## News
 
-**Pithos 1.3.1 released!** Mostly a minor bug-fix release smoothing over
-some minor issues, with a couple new features. See the [changelog](https://github.com/pithos/pithos/releases/tag/1.3.1)
+**Pithos 1.4.0 released!** See the [changelog](https://github.com/pithos/pithos/releases/tag/1.4.0)
 for details.
-
-**Pithos 1.3.0 released!** This is a major release involving a lot of
-bug fixes and a few new features. See the [changelog](https://github.com/pithos/pithos/releases/tag/1.3.0)
-for a full list.
-
-**Pithos 1.2.1 released!** Just a minor bug-fix release smoothing over
-some minor issues. See the [changelog](https://github.com/pithos/pithos/releases/tag/1.2.1)
-for details.
-
-**Pithos 1.2.0 released!** This is a major release involving a lot of
-cleanup and some UI redesigns. Please see the [changelog](https://github.com/pithos/pithos/releases/tag/1.2.0)
-for a full list.
-
-**Pithos 1.1.2 released!** This is another bug fix release that fixes
-the SSL error when using Pandora One. There are also a few plugin
-improvements including fixing the tray on KDE 5. (Note: Python 3.4+ is
-now required)
-
-**Pithos 1.1.1 released!** This is a bug fix release that fixes occasional
-erratic buffering behavior.
-Pithos 1.1.1 requires GTK 3.14+ (Ubuntu 15.04, Fedora 21). See
-[below](#install) for installation instructions.
-
-**Pithos 1.0.3 released!** This is a bug fix release that fixes occasional
-erratic buffering behavior for the 1.0.x series (GTK 3.10 compatible),
-for those of you using Fedora <= 20 and Ubuntu <= 14.10.
 
 ## Screenshot
 
@@ -71,7 +44,7 @@ for those of you using Fedora <= 20 and Ubuntu <= 14.10.
 
 ## <a name="install">Install</a>
 
-### Installing with Flatpak
+### Installing with [Flatpak](http://flatpak.org/getting.html) (*Recommended*)
 
     flatpak remote-add flathub https://flathub.org/repo/flathub.flatpakrepo
     flatpak install flathub io.github.Pithos
