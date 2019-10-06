@@ -9,7 +9,7 @@ keys, notifications, and the sound menu.
 
 ## News
 
-**Pithos 1.4.0 released!** See the [changelog](https://github.com/pithos/pithos/releases/tag/1.4.0)
+**Pithos 1.5.0 released!** See the [changelog](https://github.com/pithos/pithos/releases/tag/1.5.0)
 for details.
 
 ## Screenshot
