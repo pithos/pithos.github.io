@@ -24,7 +24,6 @@ for details.
 - [Source Downloads](https://github.com/pithos/pithos/releases)
 - [Bug reports](https://github.com/pithos/pithos/issues)
 - [Wiki](https://github.com/pithos/pithos/wiki)
-- [IRC](ircs://chat.freenode.net/pithos)
 
 ## Features
 
