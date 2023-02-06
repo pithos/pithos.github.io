@@ -3,3 +3,5 @@ domain: pithos.github.io
 markdown: kramdown
 gems:
     - jekyll-sitemap
+include:
+    - '.well-known'
