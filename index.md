@@ -9,7 +9,7 @@ keys, notifications, and the sound menu.
 
 ## News
 
-**Pithos 1.5.1 released!** See the [changelog](https://github.com/pithos/pithos/releases/tag/1.5.1)
+**Pithos 1.6.1 released!** See the [changelog](https://github.com/pithos/pithos/releases/tag/1.6.1)
 for details.
 
 ## Screenshot
